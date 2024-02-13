@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...JAVASCRIPT, TAILWIND, NODE JS, MONGODB
 - 🌱 I’m currently learning ...REDUX
 - 💞️ I’m looking to collaborate on ...backend controller side projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...mail me@ jesvinjose49@gmail.com
 
 <!---
 jesvinjose/jesvinjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
